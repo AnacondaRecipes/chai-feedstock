@@ -28,8 +28,14 @@ about:
   home: https://github.com/agoragames/chai
   license: BSD 3-Clause
   license_file: LICENSE.txt
-  summary: 'Easy to use mocking, stubbing and spying framework.'
   license_family: BSD
+  summary: 'Easy to use mocking, stubbing and spying framework.'
+  description: |
+    Chai provides a very easy to use api for mocking, stubbing and spying your
+    python objects, patterned after the Mocha library for Ruby.
+  dev_url: https://github.com/agoragames/chai
+  doc_url: https://pypi.python.org/pypi/chai
+  doc_source_url: https://github.com/agoragames/chai/blob/master/README.rst
 
 extra:
   recipe-maintainers:
